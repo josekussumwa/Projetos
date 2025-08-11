@@ -44,7 +44,8 @@ body {
   background: var(--bg-url) no-repeat top center/cover;
 }
 #container {
-  width: 360px;
+  width: 100px;
+  max-width: 588px;
   /*height: 712px;*/
   /* para vir aquela caixa border: 1px solid red; */
   margin: 56px auto 0px;
